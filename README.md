@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi! 👋
+<a href="https://www.linkedin.com/in/preyrpatel/">
+    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+<a href="mailto:preypatel612@gmail.com">
+    <img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 
-<!--
-**PreyPatell/PreyPatell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am <b>Prey Patel</b> and here is a little bit about myself
+<pre>
+- 📚 I am a third year Software Engineering Student at the University of Western Ontario
+- 💻 I am proficient in the following languages: Python, JavaScript, Java
+- 🌱 I am continually learning about Back-End Development, APIs, Databases, Version Control Systems
+- 🌟 I enjoy Basketball, Travelling, Chess, Volleyball, Video Games
+</pre>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+Feel free to check out some of my projects!
