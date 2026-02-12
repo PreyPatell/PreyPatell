@@ -9,10 +9,9 @@
 
 I am <b>Prey Patel</b> and here is a little bit about myself
 <pre>
-- 📚 I am a third year Software Engineering Student at the University of Western Ontario
-- 💻 I am proficient in the following languages: Python, JavaScript, Java, C#
-- 🌱 I am continually learning about Back-End Development, Machine Learning, APIs, RDBMS
-- 🌟 I enjoy Basketball, Travelling, Chess, Volleyball, Video Games
+- 📚 I am a fourth year Software Engineering Student at the University of Western Ontario
+- 🌱 I am continually learning about Distributed Systems, Security, Concurrency, and Parallelism
+- 🌟 I enjoy Basketball, Travelling, Volleyball, Video Games
 </pre>
 
 ## Projects
